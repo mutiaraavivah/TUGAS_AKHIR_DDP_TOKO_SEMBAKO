@@ -1,0 +1,5 @@
+Minyak_Goreng x3 = Rp30000.00
+Telur_Ayam x3 = Rp33000.00
+Gula_Teh x3 = Rp27000.00
+Total: 90000.00 Dibayar: 100000.00 Kembalian: 10000.00
+
